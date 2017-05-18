@@ -2,3 +2,8 @@
 exclude:
   - Gemfile
   - Gemfile.lock
+
+include:
+  - testhtmlfile.html
+
+permalink: index.html
