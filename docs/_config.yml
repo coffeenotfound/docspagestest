@@ -4,6 +4,6 @@ exclude:
   - Gemfile.lock
 
 include:
-  - '../testhtmlfile.html'
+  - 'testhtmlfile.html'
 
-includes_dir: '.'
+includes_dir: '../'
