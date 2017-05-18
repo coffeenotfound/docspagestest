@@ -6,3 +6,4 @@ exclude:
 include:
   - '../testhtmlfile.html'
 
+includes_dir: '.'
