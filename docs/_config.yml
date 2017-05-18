@@ -6,4 +6,3 @@ exclude:
 include:
   - testhtmlfile.html
 
-permalink: index.html
